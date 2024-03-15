@@ -1,5 +1,7 @@
 # go-elo: A flexible elo calculator for Go
 
+![coverage](https://raw.githubusercontent.com/gabehf/go-elo/badges/.badges/main/coverage.svg)
+
 This package allows you to add flexible elo/skill tracking to your application.
 
 Go-elo supports unscored (win/loss) and scored matches, with options to tailor the elo curve to your liking.
