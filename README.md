@@ -1,3 +1,5 @@
+Note: This package is currently under active development and may have significant changes between versions. If you choose to use this package, please be careful when updating!
+
 # go-elo: A flexible elo calculator for Go
 
 ![coverage](https://raw.githubusercontent.com/gabehf/go-elo/badges/.badges/main/coverage.svg)
