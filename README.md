@@ -2,7 +2,8 @@ Note: This package is currently under active development and may have significan
 
 # go-elo: A flexible elo calculator for Go
 
-![coverage](https://raw.githubusercontent.com/gabehf/go-elo/badges/.badges/main/coverage.svg)
+![coverage](https://raw.githubusercontent.com/gabehf/go-elo/badges/.badges/main/coverage.svg)   ![coverage](https://github.com/gabehf/go-elo/actions/workflows/go.yml/badge.svg)
+
 
 This package allows you to add flexible elo/skill tracking to your application.
 
